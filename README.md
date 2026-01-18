@@ -1,16 +1,23 @@
-## Hi there 👋
+# Miguel Quetglas — Cloud/DevOps (SRE) | Telecom Engineering Student
 
-<!--
-**Miguelquet/Miguelquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build hands-on infrastructure projects focused on reproducible deployments, CI/CD and observability.
 
-Here are some ideas to get you started:
+## What I'm focused on
+- Cloud/DevOps fundamentals (Linux, Docker/Compose, Git, CI/CD)
+- Observability (Prometheus, Grafana, Alertmanager)
+- Networking foundations (IPv4/IPv6, routing, MTU/PMTUD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+### cloudnet-homelab (CI/CD + Observability)
+Docker Compose lab with Jenkins + Gitea + local registry + Prometheus/Grafana.
+
+
+### netops-scripts (Python/Bash automation)
+Scripts for connectivity checks and system/network info collection.
+
+
+## Tech
+Linux • Docker • Docker Compose • Jenkins • Git • Prometheus • Grafana • Python • Bash • IPv6
+
+## Contact
+LinkedIn: <link><https://www.linkedin.com/in/miguelqq/></link>
