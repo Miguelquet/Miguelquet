@@ -1,4 +1,4 @@
-# Miguel Quetglas — Cloud/DevOps (SRE) | Telecom Engineering Student
+# Cloud/DevOps (SRE) | Telecom Engineering Student
 
 I build hands-on infrastructure projects focused on reproducible deployments, CI/CD and observability.
 
