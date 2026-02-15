@@ -17,7 +17,7 @@ Scripts for connectivity checks and system/network info collection.
 
 
 ## Tech
-Linux • Docker • Docker Compose • Jenkins • Git • Prometheus • Grafana • Python • Bash • IPv6
+Linux • Docker • Docker Compose • Jenkins/Github Actions • Git • Prometheus • Grafana • Python • Bash 
 
 ## Contact
 LinkedIn: <link><https://www.linkedin.com/in/miguelqq/></link>
