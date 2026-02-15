@@ -9,10 +9,10 @@ I build hands-on infrastructure projects focused on reproducible deployments, CI
 
 ## Featured projects
 ### cloudnet-homelab (CI/CD + Observability)
-Docker Compose lab with Jenkins + Gitea + local registry + Prometheus/Grafana.
+Docker Compose lab with Jenkins/Github Actions + GitLab + local registry + Prometheus/Grafana.
 
 
-### netops-scripts (Python/Bash automation)
+### API Metrics
 Scripts for connectivity checks and system/network info collection.
 
 
